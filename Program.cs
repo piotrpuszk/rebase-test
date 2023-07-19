@@ -4,7 +4,7 @@ namespace Test
     {
         public void Feature()
         {
-            System.Console.WriteLine("feature");
+            System.Console.WriteLine("feature final");
         }
     }
 }
