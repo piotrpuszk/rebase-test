@@ -21,5 +21,15 @@ namespace Test
         {
             System.Console.WriteLine("Another feature!");
         }
+
+        public void Server()
+        {
+            System.Console.WriteLine("Server!");
+        }
+
+        public void Client()
+        {
+            
+        }
     }
 }
