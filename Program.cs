@@ -31,5 +31,10 @@ namespace Test
         {
             System.Console.WriteLine("Client!!!");
         }
+
+        public void First()
+        {
+            
+        }
     }
 }
