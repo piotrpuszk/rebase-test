@@ -34,6 +34,11 @@ namespace Test
 
         public void First()
         {
+
+        }
+
+        public void Second()
+        {
             
         }
     }
