@@ -14,7 +14,7 @@ namespace Test
 
         public void NewFeature()
         {
-            System.Console.WriteLine("New feature!!! LOL");
+            System.Console.WriteLine("New feature!!! LOL!");
         }
 
         public void AnotherFeature()
