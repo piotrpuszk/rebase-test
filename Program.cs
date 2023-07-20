@@ -34,7 +34,7 @@ namespace Test
 
         public void First()
         {
-            
+            System.Console.WriteLine();
         }
     }
 }
