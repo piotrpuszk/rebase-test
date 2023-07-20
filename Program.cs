@@ -39,7 +39,7 @@ namespace Test
 
         public void Second()
         {
-            
+            System.Console.WriteLine();
         }
     }
 }
