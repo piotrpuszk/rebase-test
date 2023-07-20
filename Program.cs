@@ -11,5 +11,10 @@ namespace Test
         {
             System.Console.WriteLine("feature");
         }
+
+        public void NewFeature()
+        {
+            System.Console.WriteLine("New feature!");
+        }
     }
 }
