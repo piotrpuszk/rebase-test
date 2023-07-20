@@ -29,7 +29,7 @@ namespace Test
 
         public void Client()
         {
-            
+            System.Console.WriteLine("");
         }
     }
 }
